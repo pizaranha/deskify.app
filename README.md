@@ -32,7 +32,8 @@ git clone https://github.com/your-username/deskify.app.git
 cd deskify.app
 npm install
 npm run dev
-
+```
+pm
 ---
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
